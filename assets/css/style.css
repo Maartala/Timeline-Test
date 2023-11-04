@@ -27,7 +27,6 @@ html {
 
 .timeline {
     /* height: 100vh; */
-    background-color: white;
     color: black;
 }
 
@@ -51,7 +50,7 @@ body {
 }
 
 .timeline {
-    padding: 100px 0;
+    padding: 100px 10%;
     position: relative;
 }
 
@@ -115,7 +114,7 @@ body {
     border-color: transparent transparent transparent #f5f5f5;
 }
 
-.timeline-img {
+.timeline-dot {
     width: 30px;
     height: 30px;
     background: var(--primary);

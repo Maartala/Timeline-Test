@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
             origin: origin,
             distance: "300px",
             easing: "ease-in-out",
-            duration: 800,
+            duration: 900,
         });
     }
 
