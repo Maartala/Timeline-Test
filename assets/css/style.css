@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.about {
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.about article {
+    width: 50vw;
+    margin: 0 auto;
+    padding: 20% 0;
+    text-align: center;
+}
+
+.about p {
+    padding: 10%
+}
+
+.cv {
+    height: 100vh;
+    background-color: white;
+    color: black;
+}
