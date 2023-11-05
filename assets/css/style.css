@@ -130,6 +130,7 @@ body {
 
 .slider-title {
     margin-bottom: 6px;
+    color: var(--primary);
 }
 
 /* MEDIA QUERY */
